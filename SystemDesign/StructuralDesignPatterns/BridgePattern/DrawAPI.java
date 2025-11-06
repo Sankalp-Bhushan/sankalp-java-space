@@ -1,0 +1,5 @@
+package SystemDesign.StructuralDesignPatterns.BridgePattern;
+
+public interface DrawAPI {
+    void drawCircle(int radius, int x, int y);
+}
