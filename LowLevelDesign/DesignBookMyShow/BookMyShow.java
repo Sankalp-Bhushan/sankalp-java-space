@@ -1,7 +1,7 @@
-package com.conceptandcoding.LowLevelDesign.DesignBookMyShow;
+package LowLevelDesign.DesignBookMyShow;
 
-import com.conceptandcoding.LowLevelDesign.DesignBookMyShow.Enums.City;
-import com.conceptandcoding.LowLevelDesign.DesignBookMyShow.Enums.SeatCategory;
+import LowLevelDesign.DesignBookMyShow.Enums.City;
+import LowLevelDesign.DesignBookMyShow.Enums.SeatCategory;
 
 import java.util.ArrayList;
 import java.util.List;

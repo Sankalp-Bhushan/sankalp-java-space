@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDTicTacToe.Model;
+package LowLevelDesign.LLDTicTacToe.Model;
 
 public class PlayingPieceO extends PlayingPiece{
 

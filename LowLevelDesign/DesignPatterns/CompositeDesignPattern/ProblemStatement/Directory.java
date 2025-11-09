@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignPatterns.CompositeDesignPattern.ProblemStatement;
+package LowLevelDesign.DesignPatterns.CompositeDesignPattern.ProblemStatement;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignPatterns.BuilderDesignPattern;
+package LowLevelDesign.DesignPatterns.BuilderDesignPattern;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignBookMyShow;
+package LowLevelDesign.DesignBookMyShow;
 
 import java.util.ArrayList;
 import java.util.List;

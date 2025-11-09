@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignPatterns.CompositeDesignPattern.Solution1WithCompositeDesign;
+package LowLevelDesign.DesignPatterns.CompositeDesignPattern.Solution1WithCompositeDesign;
 
 public class Main {
     public static void main(String args[]){

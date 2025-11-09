@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignOrderManagementSystem;
+package LowLevelDesign.DesignOrderManagementSystem;
 
 import java.util.ArrayList;
 import java.util.HashMap;

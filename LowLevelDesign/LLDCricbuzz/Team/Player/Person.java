@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team.Player;
+package LowLevelDesign.LLDCricbuzz.Team.Player;
 
 public class Person {
     public String name;

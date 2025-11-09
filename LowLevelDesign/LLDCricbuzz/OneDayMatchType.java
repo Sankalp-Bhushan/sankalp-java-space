@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDCricbuzz;
+package LowLevelDesign.LLDCricbuzz;
 
 public class OneDayMatchType implements MatchType{
     @Override

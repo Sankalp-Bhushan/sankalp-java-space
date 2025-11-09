@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team.Player;
+package LowLevelDesign.LLDCricbuzz.Team.Player;
 
 import java.util.Deque;
 import java.util.HashMap;

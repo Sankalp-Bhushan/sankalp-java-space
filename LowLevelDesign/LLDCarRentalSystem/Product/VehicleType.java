@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDCarRentalSystem.Product;
+package LowLevelDesign.LLDCarRentalSystem.Product;
 
 public enum VehicleType {
     CAR;

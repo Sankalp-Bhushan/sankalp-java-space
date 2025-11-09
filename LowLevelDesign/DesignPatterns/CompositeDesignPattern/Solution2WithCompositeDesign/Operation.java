@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignPatterns.CompositeDesignPattern.Solution2WithCompositeDesign;
+package LowLevelDesign.DesignPatterns.CompositeDesignPattern.Solution2WithCompositeDesign;
 
 public enum Operation {
 

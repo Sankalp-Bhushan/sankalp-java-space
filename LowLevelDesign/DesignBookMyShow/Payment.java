@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignBookMyShow;
+package LowLevelDesign.DesignBookMyShow;
 
 public class Payment {
 

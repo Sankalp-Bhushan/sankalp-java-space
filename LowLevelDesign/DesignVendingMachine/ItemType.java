@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignVendingMachine;
+package LowLevelDesign.DesignVendingMachine;
 
 public enum ItemType {
 

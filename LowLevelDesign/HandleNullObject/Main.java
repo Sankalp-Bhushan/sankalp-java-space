@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.HandleNullObject;
+package LowLevelDesign.HandleNullObject;
 
 public class Main {
 

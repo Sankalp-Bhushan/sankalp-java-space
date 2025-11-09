@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDElevatorDesign;
+package LowLevelDesign.LLDElevatorDesign;
 
 
 import java.util.PriorityQueue;

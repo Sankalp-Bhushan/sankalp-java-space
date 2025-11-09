@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignPatterns.FlyWeightPattern;
+package LowLevelDesign.DesignPatterns.FlyWeightPattern;
 
 public interface IRobot {
 

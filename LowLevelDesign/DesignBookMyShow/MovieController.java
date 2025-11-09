@@ -1,6 +1,6 @@
-package com.conceptandcoding.LowLevelDesign.DesignBookMyShow;
+package LowLevelDesign.DesignBookMyShow;
 
-import com.conceptandcoding.LowLevelDesign.DesignBookMyShow.Enums.City;
+import LowLevelDesign.DesignBookMyShow.Enums.City;
 
 import java.util.ArrayList;
 import java.util.HashMap;

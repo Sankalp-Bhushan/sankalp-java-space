@@ -1,8 +1,8 @@
-package com.conceptandcoding.LowLevelDesign.LLDCarRentalSystem;
+package LowLevelDesign.LLDCarRentalSystem;
 
-import com.conceptandcoding.LowLevelDesign.LLDCarRentalSystem.Product.Car;
-import com.conceptandcoding.LowLevelDesign.LLDCarRentalSystem.Product.Vehicle;
-import com.conceptandcoding.LowLevelDesign.LLDCarRentalSystem.Product.VehicleType;
+import LowLevelDesign.LLDCarRentalSystem.Product.Car;
+import LowLevelDesign.LLDCarRentalSystem.Product.Vehicle;
+import LowLevelDesign.LLDCarRentalSystem.Product.VehicleType;
 
 import java.util.ArrayList;
 import java.util.List;

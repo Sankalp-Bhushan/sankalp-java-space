@@ -1,12 +1,12 @@
-package com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Inning;
+package LowLevelDesign.LLDCricbuzz.Inning;
 
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.ScoreUpdater.BattingScoreUpdater;
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.ScoreUpdater.BowlingScoreUpdater;
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.ScoreUpdater.ScoreUpdaterObserver;
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team.Player.PlayerDetails;
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team.Team;
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team.Wicket;
-import com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team.WicketType;
+import LowLevelDesign.LLDCricbuzz.ScoreUpdater.BattingScoreUpdater;
+import LowLevelDesign.LLDCricbuzz.ScoreUpdater.BowlingScoreUpdater;
+import LowLevelDesign.LLDCricbuzz.ScoreUpdater.ScoreUpdaterObserver;
+import LowLevelDesign.LLDCricbuzz.Team.Player.PlayerDetails;
+import LowLevelDesign.LLDCricbuzz.Team.Team;
+import LowLevelDesign.LLDCricbuzz.Team.Wicket;
+import LowLevelDesign.LLDCricbuzz.Team.WicketType;
 
 import java.util.ArrayList;
 import java.util.List;

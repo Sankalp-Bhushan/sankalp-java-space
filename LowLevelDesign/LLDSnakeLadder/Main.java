@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDSnakeLadder;
+package LowLevelDesign.LLDSnakeLadder;
 
 public class Main {
 

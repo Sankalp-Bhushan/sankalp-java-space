@@ -1,6 +1,6 @@
-package com.conceptandcoding.LowLevelDesign.DesignATM.AmountWithdrawal;
+package LowLevelDesign.DesignATM.AmountWithdrawal;
 
-import com.conceptandcoding.LowLevelDesign.DesignATM.ATM;
+import LowLevelDesign.DesignATM.ATM;
 
 public class OneHundredWithdrawProcessor extends CashWithdrawProcessor{
 

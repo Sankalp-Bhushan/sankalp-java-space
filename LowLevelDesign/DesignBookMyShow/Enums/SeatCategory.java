@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignBookMyShow.Enums;
+package LowLevelDesign.DesignBookMyShow.Enums;
 
 public enum SeatCategory {
 

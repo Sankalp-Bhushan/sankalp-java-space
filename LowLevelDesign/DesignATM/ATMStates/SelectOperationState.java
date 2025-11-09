@@ -1,8 +1,8 @@
-package com.conceptandcoding.LowLevelDesign.DesignATM.ATMStates;
+package LowLevelDesign.DesignATM.ATMStates;
 
-import com.conceptandcoding.LowLevelDesign.DesignATM.ATM;
-import com.conceptandcoding.LowLevelDesign.DesignATM.Card;
-import com.conceptandcoding.LowLevelDesign.DesignATM.TransactionType;
+import LowLevelDesign.DesignATM.ATM;
+import LowLevelDesign.DesignATM.Card;
+import LowLevelDesign.DesignATM.TransactionType;
 
 public class SelectOperationState extends ATMState{
 

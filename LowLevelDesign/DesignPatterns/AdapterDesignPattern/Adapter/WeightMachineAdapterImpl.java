@@ -1,6 +1,6 @@
-package com.conceptandcoding.LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adapter;
+package LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adapter;
 
-import com.conceptandcoding.LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adaptee.WeightMachine;
+import LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adaptee.WeightMachine;
 
 public class WeightMachineAdapterImpl implements WeightMachineAdapter{
 

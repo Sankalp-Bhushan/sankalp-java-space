@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignSplitwise;
+package LowLevelDesign.DesignSplitwise;
 
 import java.util.HashMap;
 import java.util.Map;

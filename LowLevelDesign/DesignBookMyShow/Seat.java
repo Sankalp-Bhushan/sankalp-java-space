@@ -1,6 +1,6 @@
-package com.conceptandcoding.LowLevelDesign.DesignBookMyShow;
+package LowLevelDesign.DesignBookMyShow;
 
-import com.conceptandcoding.LowLevelDesign.DesignBookMyShow.Enums.SeatCategory;
+import LowLevelDesign.DesignBookMyShow.Enums.SeatCategory;
 
 public class Seat {
 

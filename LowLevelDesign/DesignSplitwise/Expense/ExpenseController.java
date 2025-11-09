@@ -1,9 +1,9 @@
-package com.conceptandcoding.LowLevelDesign.DesignSplitwise.Expense;
+package LowLevelDesign.DesignSplitwise.Expense;
 
-import com.conceptandcoding.LowLevelDesign.DesignSplitwise.BalanceSheetController;
-import com.conceptandcoding.LowLevelDesign.DesignSplitwise.Expense.Split.ExpenseSplit;
-import com.conceptandcoding.LowLevelDesign.DesignSplitwise.Expense.Split.Split;
-import com.conceptandcoding.LowLevelDesign.DesignSplitwise.User.User;
+import LowLevelDesign.DesignSplitwise.BalanceSheetController;
+import LowLevelDesign.DesignSplitwise.Expense.Split.ExpenseSplit;
+import LowLevelDesign.DesignSplitwise.Expense.Split.Split;
+import LowLevelDesign.DesignSplitwise.User.User;
 
 import java.util.List;
 

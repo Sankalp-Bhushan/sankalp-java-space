@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDCricbuzz.Team;
+package LowLevelDesign.LLDCricbuzz.Team;
 
 public enum WicketType {
 

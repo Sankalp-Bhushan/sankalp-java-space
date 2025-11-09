@@ -1,9 +1,9 @@
-package com.conceptandcoding.LowLevelDesign.DesignVendingMachine.VendingStates.impl;
+package LowLevelDesign.DesignVendingMachine.VendingStates.impl;
 
-import com.conceptandcoding.LowLevelDesign.DesignVendingMachine.Coin;
-import com.conceptandcoding.LowLevelDesign.DesignVendingMachine.Item;
-import com.conceptandcoding.LowLevelDesign.DesignVendingMachine.VendingMachine;
-import com.conceptandcoding.LowLevelDesign.DesignVendingMachine.VendingStates.State;
+import LowLevelDesign.DesignVendingMachine.Coin;
+import LowLevelDesign.DesignVendingMachine.Item;
+import LowLevelDesign.DesignVendingMachine.VendingMachine;
+import LowLevelDesign.DesignVendingMachine.VendingStates.State;
 
 import java.util.ArrayList;
 import java.util.List;

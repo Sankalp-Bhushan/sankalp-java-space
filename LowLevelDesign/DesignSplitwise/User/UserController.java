@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignSplitwise.User;
+package LowLevelDesign.DesignSplitwise.User;
 
 import java.util.ArrayList;
 import java.util.List;

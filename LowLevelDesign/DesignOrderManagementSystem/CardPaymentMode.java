@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignOrderManagementSystem;
+package LowLevelDesign.DesignOrderManagementSystem;
 
 public class CardPaymentMode implements PaymentMode{
 

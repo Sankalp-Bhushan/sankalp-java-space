@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.DesignATM;
+package LowLevelDesign.DesignATM;
 
 public enum TransactionType {
 

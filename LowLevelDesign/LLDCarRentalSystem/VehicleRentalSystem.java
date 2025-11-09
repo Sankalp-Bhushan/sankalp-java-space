@@ -1,4 +1,4 @@
-package com.conceptandcoding.LowLevelDesign.LLDCarRentalSystem;
+package LowLevelDesign.LLDCarRentalSystem;
 
 
 import java.util.List;
