@@ -7,4 +7,5 @@ public class PlayingPiece {
     PlayingPiece(PieceType pieceType) {
         this.pieceType = pieceType;
     }
+    
 }
